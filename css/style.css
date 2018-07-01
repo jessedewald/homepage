@@ -1,31 +1,15 @@
-#navContainer {
-	background-color: #222233;
-	padding-left: 0px;
-	padding-right: 0px;
-}
-.navbar {
-	padding-left: 0px;
-	padding-right: 0px;
-}
-.navbar-brand, .navbar-brand:hover, .navbar-toggler {
-	color: #fefefe;
-	font-weight: bold;
-}
-.navbar-dark .navbar-toggler-icon {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(254,254,254,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
-}
-
-#page-heading {
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-
 body {
-	background-color: #d5e1af;
+	background-color: #F7F7F7;
 }
 
-#main-section {
-	background-color: #fefefe;
-	padding: 30px;
-	border-radius: 5px;
+header {
+	font-style: italic;
+}
+
+#content {
+	padding: 0;
+	color: red;
+	font-weight: bold;
+	font-size: 18em;
+	vertical-align: text-top;
 }
